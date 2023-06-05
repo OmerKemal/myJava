@@ -18,7 +18,7 @@ public class Exceptions01 {
             ii)"throw" can be used many times in a method body, but "throws" can be used just once.
             iii)After using "throw" keyword we create an Exception Class Object, but after using "throws" we type just the name of the Exception Class
             iv)After using "throw" keyword we can use just one Exception Class, but after using "throws" we can use multiple Exception Classes
-            v)"throw" keyword handles the Exception and lets next codes to be executed, but "throws" make the code throws exception and stops the execution
+            v)"throw" keyword handles the Exception and lets next codes to be executed, but "throws" makes the code throw exception and stops the execution
      */
     public static void main(String[] args) throws IOException {
         readTextFile1();
