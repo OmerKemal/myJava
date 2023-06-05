@@ -1,0 +1,4 @@
+Lambda is functional programming.
+Lambda prefers to use method preference.
+Method preference uses class name double column and method name without parenthesis.
+We love Lambda, it is easy.
